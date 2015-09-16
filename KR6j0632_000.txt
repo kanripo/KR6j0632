@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說消除一切災障寶髻陀羅尼經
+#+DATE: 2015-08-30 20:36:45.720183
+#+PROPERTY: JUAN 0
